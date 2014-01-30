@@ -1,5 +1,4 @@
-#FileInfo
-
+#FileReader
 ###Environment:
 
 Windows form application
